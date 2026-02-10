@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm .milton.
 
-<!--
-**miltonerick4410-oss/miltonerick4410-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning .software development and programming.
+- I'm interested in [web development, technology, and problem solving].
+- I'm looking to collaborate on [beginner-friendly open source projects].
 
-Here are some ideas to get you started:
+## Skills I'm Building
+Git & GitHub
+- HTML & CSS
+- Python (beginner)
+- Basic computer skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- **Beginner Practice Projects** — small projects to improve my coding skills
+
+## How to Reach Me
+- Email: miltonerick4410@gmail.com
+- LinkedIn: .https://www.linkedin.com/in/milton-otieno-541774270.
