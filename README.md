@@ -2,8 +2,8 @@
 
 ## About Me
 - I'm currently learning .software development and programming.
-- I'm interested in [web development, technology, and problem solving].
-- I'm looking to collaborate on [beginner-friendly open source projects].
+- I'm interested in web development, technology, and problem solving.
+- I'm looking to collaborate on beginner-friendly open source projects.
 
 ## Skills I'm Building
 Git & GitHub
