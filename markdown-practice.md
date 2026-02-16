@@ -22,19 +22,16 @@ _ _ _
 _ _ _
 ### Ordered list- steps of making a commit in Git
 
-1. Pick which files you want to save (git add)
-2. Record your changes with a message (git commit)
-3. Upload your changes to GitHub (git push)
+1. Pick which files you want to save 
+2. Record your changes with a message 
+3. Upload your changes to GitHub 
  _ _ _  
 5. ## Exercise 5  Table
    
-|  Tool        |    Purpose                       |        Links                          |
-|_ _ _ _ _ _ _ |_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ |_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _|
-| GitHub       | Hosting and managing code online |  https://github.com                   |
-| Vcode        |   Writing and editing code       |  https://code.visualstudio.com        |
-
-
-                                                                         
+|  Tool        |    Purpose                       |        Links                   |
+|------------- |--------------------------------- |------------------------------- |
+| GitHub       | Hosting and managing code online |  https://github.com            |
+| Vcode        |   Writing and editing code       |  https://code.visualstudio.com |                                                                        
 _ _ _  _
 ## Exercise 6 Task list
 
@@ -57,12 +54,10 @@ _ _ _
 > When things feels unstable, stay calm, learn from the situation and use it to immprove youself.
 _ _ _
 
-# Bonus
-
 ## About Me
 
 Hallo l'm **Milton Erick Otieno**
-I'am currently learning *programming basic* and how to use `Git` and ~~~GitHub~~
+I'am currently learning *programming basic* and how to use `Git` and ~~GitHub~~
 _ _ _
 
 ### What l'am Learning
