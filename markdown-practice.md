@@ -32,9 +32,9 @@ _ _ _
 |_ _ _ _ _ _ _ |_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ |_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _|
 | GitHub       | Hosting and managing code online |  https://github.com                   |
 | Vcode        |   Writing and editing code       |  https://code.visualstudio.com        |
-|              |                                  |                                       |
-|              |                                  |                                       |
-|              |                                  |                                       |
+
+
+                                                                         
 _ _ _  _
 ## Exercise 6 Task list
 
