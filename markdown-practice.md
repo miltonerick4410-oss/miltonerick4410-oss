@@ -17,7 +17,7 @@ _ _ _
 
 ### Unordered list - Things l want to learn
 -HTML & CSS for building websites
--pyton programming basic
+-pyton programming basic.
 -using Git & Github to manage projects.
 _ _ _
 ### Ordered list- steps of making a commit in Git
