@@ -67,7 +67,7 @@ _ _ _
 _ _ _
 ### My progress
 [x] Created a GitHub account
-[x] Creted my proffile REDME
+[x] Created my profile REDME
 [] Build my first website
 [] Practice Git commmonds
 _ _ _
