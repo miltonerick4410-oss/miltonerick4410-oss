@@ -22,9 +22,9 @@ _ _ _
 _ _ _
 ### Ordered list- steps of making a commit in Git
 
-1. Pick which files you want to save 
-2. Record your changes with a message 
-3. Upload your changes to GitHub 
+1. Pick which files you want to save. 
+2. Record your changes with a message.
+3. Upload your changes to GitHub. 
  _ _ _  
 5. ## Exercise 5  Table
    
