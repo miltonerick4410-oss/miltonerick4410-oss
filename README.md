@@ -1,15 +1,16 @@
-# Hi, I'm .milton.
+# Hi, I'm, milton.
 
 ## About Me
-- I'm currently learning .software development and programming.
- -I'm interested in web development, technology, and problem solving.
-- I'm looking to collaborate on beginner-friendly open source projects.
+- I'am currently learning .software development and programming.
+ -I'am interested in web development, technology, and problem solving.
+- I'am looking to collaborate on beginner-friendly open source projects.
 
 ## Skills I'm Building
-Git & GitHub
+
+<li>Git & GitHub</li>
 <li>HTML</li>
 <li>CSS</li>
-<li>< Python (beginner)</li>
+<li>Python (beginner)</li>
 <li>problem solving with code<li/>
 
 ## Current Projects
