@@ -17,7 +17,7 @@ _ _ _
 
 ### Unordered list - Things l want to learn
 -HTML & CSS for building websites
--pyton programming basic.
+-python programming basic.
 -using Git & Github to manage projects.
 _ _ _
 ### Ordered list- steps of making a commit in Git
@@ -35,11 +35,11 @@ _ _ _
 _ _ _  _
 ## Exercise 6 Task list
 
--[x]Basic computer skills.
--[x]Creat a GitHub account.
--[x]Creat my GitHub profile README
--[]Learn besic Git commands
--[]Building my first HTML web page
+[ x ]Basic computer skills.
+[ x ]Creat a GitHub account.
+[ x ]Creat my GitHub profile README
+[ ]Learn besic Git commands
+[ ]Building my first HTML web page
 _ _ _
 ## Exercise 7 Code block
 
@@ -49,7 +49,6 @@ print("Hello, world!")
 _ _ _
 ## Exercise 8 Blockquoate
 > "Chaos is ladder"
->
 > Sometimes diffeculte or confusion is an opportinity to grow.
 > When things feels unstable, stay calm, learn from the situation and use it to immprove youself.
 _ _ _
@@ -66,10 +65,11 @@ _ _ _
 -Git & GitHub
 _ _ _
 ### My progress
-[x] Created a GitHub account
-[x] Created my profile REDME
-[] Build my first website
-[] Practice Git commmonds
+
+[ x ]Created a GitHub account
+[ x ] Created my profile REDME
+[ ] Build my first website
+[ ] Practice Git commmonds
 _ _ _
 
 > "Keep going, even if even it feels difficult."
