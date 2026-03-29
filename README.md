@@ -13,8 +13,8 @@
 <li>Python (beginner)</li>
 <li>problem solving with code<li/>
 
-## Current Projects
-- **Beginner Practice Projects** — small projects to improve my coding skills
+ ## Current Projects
+ **Beginner Practice Projects** — small projects to improve my coding skills
 
 ## How to Reach Me
 - Email: miltonerick4410@gmail.com
