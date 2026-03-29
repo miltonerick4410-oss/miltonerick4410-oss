@@ -1,8 +1,8 @@
 # Hi, I'm, milton.
 
 ## About Me
-- I'am currently learning .software development and programming.
- -I'am interested in web development, technology, and problem solving.
+- I'am currently learning software development and programming.
+ I'am interested in web development, technology, and problem solving.
 - I'am looking to collaborate on beginner-friendly open source projects.
 
 ## Skills I'm Building
